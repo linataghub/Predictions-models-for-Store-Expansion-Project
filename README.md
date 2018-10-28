@@ -14,6 +14,6 @@ We developed a model that predicts which segment a store falls into based on the
 
 ## Task 3: Predicting Produce Sales 
 
- We built an predictive model to have an accurate monthly sales forecast of fresh produce.
+Finally, we built an predictive model to have an accurate monthly sales forecast of fresh produce.
  
  **Project Context:** Udacity Business Analyst Nanodegree 
